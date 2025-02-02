@@ -1,0 +1,18 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/uniter/esp/v5.4/esp-idf",
+    "idf.openOcdConfigs": [
+		"board/esp32c3-builtin.cfg"
+	],
+    "idf.port": "/dev/ttyS1",
+	"idf.toolsPath": "/home/uniter/.espressif",
+	"files.associations": {
+		"cstdlib": "c",
+		"task.h": "c",
+		"esp_wifi.h": "c",
+		"freertos.h": "c",
+		"string.h": "c",
+		"esp_udp.h": "c",
+		"format": "cpp"
+	}
+}
