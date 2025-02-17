@@ -1,3 +1,6 @@
 [submodule "components/esp_udp"]
 	path = components/esp_udp
 	url = https://github.com/user-0021/esp_udp
+[submodule "components/esp_icps"]
+	path = components/esp_icps
+	url = https://github.com/user-0021/esp_icps.git
